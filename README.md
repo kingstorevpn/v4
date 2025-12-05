@@ -12,10 +12,11 @@ wget -O udp.sh https://raw.githubusercontent.com/kingstorevpn/v4/main/udp.sh && 
 ```bash
 wget -O restore-universal.sh https://raw.githubusercontent.com/kingstorevpn/v4/main/Cdy/restore-universal.sh && chmod +x restore-universal.sh && ./restore-universal.sh
 ```
-## FIX UDP
+## MONYET ASU
 ```bash
 wget -O install.sh https://raw.githubusercontent.com/kingstorevpn/v4/main/install.sh && chmod +x install.sh && ./install.sh
 ```
+
 
 
 
