@@ -1,6 +1,6 @@
 [Unit]
 Description=Python Proxy DragonTunneling
-Documentation=https://wa.me/ARI_VPN_STORERenzy_Store
+Documentation=https://wa.me/candravpnz
 After=network.target nss-lookup.target
 
 [Service]
