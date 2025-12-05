@@ -15,7 +15,7 @@ green='\e[0;32m'
 TIME=$(date '+%d %b %Y')
 ipsaya=$(wget -qO- ipinfo.io/ip)
 TIMES="10"
-CHATID="19621851"
+CHATID=" "
 KEY="6866097221:AAFdDsbTF-R7_d07ewI3z0BQHYrd7yQNhhA"
 URL="https://api.telegram.org/bot$KEY/sendMessage"
 export IP=$( curl -sS icanhazip.com )
@@ -1164,4 +1164,5 @@ echo -e "\033[96m==========================\033[0m"
 echo -e ""
 read -n 1 -s -r -p "Press any key to back on menu"
 menu
+
 rm -rf /root/install
